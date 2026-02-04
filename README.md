@@ -1,13 +1,12 @@
-# myfamr
+# My Farm
 
-## Project info
 
-**URL**: tba
 
-## to sir lakshan
+**URL**: not yet deployed
 
-There are several ways of editing your application.
 
+
+## not for deployment
 
 
 **Use npm**
@@ -32,19 +31,6 @@ npm i
 npm run dev
 ```
 
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-u will find it out urself
 
 ## Can I connect a custom domain to this?
 Yes
